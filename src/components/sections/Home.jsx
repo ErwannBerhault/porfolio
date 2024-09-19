@@ -17,7 +17,7 @@ function Home({ctaRef}) {
                         </svg>
                         <span className="btn-background"></span>
                     </button>
-                    <img src={introDuctionVisual as string} alt="Welcome"/>
+                    <img src={introDuctionVisual} alt="Welcome"/>
                 </div>
                 <div className="intro--options">
                     <a href="#0">

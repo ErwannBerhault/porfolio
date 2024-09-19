@@ -1,4 +1,14 @@
 function Contact() {
+    const email = process.env.REACT_APP_EMAIL;
+    const phone = process.env.REACT_APP_PHONE;
+
+    function formatFrenchPhoneNumber(number) {
+        if (number.startsWith('0')) {
+            return number.replace(/^0/, '+33');
+        }
+        return number;
+    }
+
     return (
         <li className="l-section section">
             <div className="contact">
@@ -6,12 +16,12 @@ function Contact() {
                     <div className="modal">
                         <div className="modal--information">
                             <p>Région Bordelaise</p>
-                            <a href="mailto:ouremail@gmail.com">erwann.berhault@orange.fr</a>
-                            <a href="tel:+33787657010">07 87 65 70 10</a>
+                            <a href={"mailto:" + email}>{email}</a>
+                            <a href={"tel:" + formatFrenchPhoneNumber(phone)}>{phone.replace(/(.{2})/g, '$1 ')}</a>
                         </div>
                         <ul className="modal--options">
                             <li>
-                                <a href="https://www.linkedin.com/in/erwann-berhault/">
+                                <a href={process.env.REACT_APP_LINKEDIN} target="_blank" rel="noreferrer">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
                                          className="bi bi-linkedin" viewBox="0 0 16 16">
                                         <path
@@ -20,7 +30,7 @@ function Contact() {
                                     LinkedIn
                                 </a>
                             </li>
-                            <li><a href="mailto:erwann.berhault@orange.fr">Contact me</a></li>
+                            <li><a href={"mailto:".email}>Contact me</a></li>
                         </ul>
                     </div>
                 </div>

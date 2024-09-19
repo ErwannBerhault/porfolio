@@ -12,7 +12,7 @@ function Work() {
                         <li className="slider--item slider--item-left">
                             <a href="#0">
                                 <div className="slider--item-image">
-                                    <img src={workVictory as string} alt="Victory"/>
+                                    <img src={workVictory} alt="Victory"/>
                                 </div>
                                 <p className="slider--item-title">Victory</p>
                                 <p className="slider--item-description">Lorem ipsum dolor sit
@@ -22,7 +22,7 @@ function Work() {
                         <li className="slider--item slider--item-center">
                             <a href="#0">
                                 <div className="slider--item-image">
-                                    <img src={workMatiewSmith as string}
+                                    <img src={workMatiewSmith}
                                          alt="Metiew and Smith"/>
                                 </div>
                                 <p className="slider--item-title">Metiew &amp; Smith</p>
@@ -33,7 +33,7 @@ function Work() {
                         <li className="slider--item slider--item-right">
                             <a href="#0">
                                 <div className="slider--item-image">
-                                    <img src={workAlexNowak as string} alt="Alex Nowak"/>
+                                    <img src={workAlexNowak} alt="Alex Nowak"/>
                                 </div>
                                 <p className="slider--item-title">Alex Nowak</p>
                                 <p className="slider--item-description">Lorem ipsum dolor sit
