@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.aba5db12.css",
-    "main.js": "/porfolio/static/js/main.2a58ff68.js",
+    "main.css": "/porfolio/static/css/main.1b5f2602.css",
+    "main.js": "/porfolio/static/js/main.ca615f75.js",
     "static/js/453.906b0208.chunk.js": "/porfolio/static/js/453.906b0208.chunk.js",
     "static/media/react.png": "/porfolio/static/media/react.becbab0ab5d2271d2831.png",
-    "static/media/introduction-visual.png": "/porfolio/static/media/introduction-visual.87dad45905a8703bcc9f.png",
     "static/media/php.png": "/porfolio/static/media/php.bb71eb98136df04d1a4d.png",
     "static/media/logo-nemesia-creation.png": "/porfolio/static/media/logo-nemesia-creation.0325e614b6c2a4bf5817.png",
+    "static/media/bordeaux.jpg": "/porfolio/static/media/bordeaux.957396f335c6ac670e1c.jpg",
     "static/media/avatar.png": "/porfolio/static/media/avatar.a120e5737ba26d10d617.png",
     "static/media/Montserrat-Bold.svg": "/porfolio/static/media/Montserrat-Bold.165ff0f48797c2bfa717.svg",
     "static/media/Montserrat-Regular.svg": "/porfolio/static/media/Montserrat-Regular.d7faa247e52835ac2b4a.svg",
@@ -32,12 +32,12 @@
     "static/media/about-history.jpg": "/porfolio/static/media/about-history.dbd7d173dbbb6676ce0f.jpg",
     "static/media/symfony.png": "/porfolio/static/media/symfony.bfd8413a2d4d27cca3c9.png",
     "index.html": "/porfolio/index.html",
-    "main.aba5db12.css.map": "/porfolio/static/css/main.aba5db12.css.map",
-    "main.2a58ff68.js.map": "/porfolio/static/js/main.2a58ff68.js.map",
+    "main.1b5f2602.css.map": "/porfolio/static/css/main.1b5f2602.css.map",
+    "main.ca615f75.js.map": "/porfolio/static/js/main.ca615f75.js.map",
     "453.906b0208.chunk.js.map": "/porfolio/static/js/453.906b0208.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aba5db12.css",
-    "static/js/main.2a58ff68.js"
+    "static/css/main.1b5f2602.css",
+    "static/js/main.ca615f75.js"
   ]
 }
