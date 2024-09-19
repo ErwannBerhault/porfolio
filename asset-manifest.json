@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.818e7407.css",
-    "main.js": "/porfolio/static/js/main.ebf1ed04.js",
+    "main.css": "/porfolio/static/css/main.727a31e5.css",
+    "main.js": "/porfolio/static/js/main.c1e9ff1c.js",
     "static/js/453.906b0208.chunk.js": "/porfolio/static/js/453.906b0208.chunk.js",
     "static/media/contact-visual.png": "/porfolio/static/media/contact-visual.04c48cb26c6615866328.png",
     "static/media/introduction-visual.png": "/porfolio/static/media/introduction-visual.87dad45905a8703bcc9f.png",
+    "static/media/logo-nemesia-creation.png": "/porfolio/static/media/logo-nemesia-creation.0325e614b6c2a4bf5817.png",
     "static/media/Montserrat-Bold.svg": "/porfolio/static/media/Montserrat-Bold.165ff0f48797c2bfa717.svg",
     "static/media/Montserrat-Regular.svg": "/porfolio/static/media/Montserrat-Regular.d7faa247e52835ac2b4a.svg",
     "static/media/Montserrat-Black.svg": "/porfolio/static/media/Montserrat-Black.a621d898c74f2031b365.svg",
@@ -23,17 +24,16 @@
     "static/media/Montserrat-Black.woff": "/porfolio/static/media/Montserrat-Black.3a4efae480dc3343186a.woff",
     "static/media/work-alex-nowak.jpg": "/porfolio/static/media/work-alex-nowak.f3b8dae06af02aae2284.jpg",
     "static/media/work-metiew-smith.jpg": "/porfolio/static/media/work-metiew-smith.28e5219b8acd71226189.jpg",
-    "static/media/work-victory.jpg": "/porfolio/static/media/work-victory.65c37b629a23a9500636.jpg",
     "static/media/about-winners.jpg": "/porfolio/static/media/about-winners.6a6129c505a71e41f141.jpg",
     "static/media/about-philosophy.jpg": "/porfolio/static/media/about-philosophy.4ec348c2b758ac6731f2.jpg",
     "static/media/about-history.jpg": "/porfolio/static/media/about-history.dbd7d173dbbb6676ce0f.jpg",
     "index.html": "/porfolio/index.html",
-    "main.818e7407.css.map": "/porfolio/static/css/main.818e7407.css.map",
-    "main.ebf1ed04.js.map": "/porfolio/static/js/main.ebf1ed04.js.map",
+    "main.727a31e5.css.map": "/porfolio/static/css/main.727a31e5.css.map",
+    "main.c1e9ff1c.js.map": "/porfolio/static/js/main.c1e9ff1c.js.map",
     "453.906b0208.chunk.js.map": "/porfolio/static/js/453.906b0208.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.818e7407.css",
-    "static/js/main.ebf1ed04.js"
+    "static/css/main.727a31e5.css",
+    "static/js/main.c1e9ff1c.js"
   ]
 }
