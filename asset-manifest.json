@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/porfolio/static/css/main.818e7407.css",
+    "main.js": "/porfolio/static/js/main.8d42fcc9.js",
+    "static/js/453.906b0208.chunk.js": "/porfolio/static/js/453.906b0208.chunk.js",
+    "static/media/contact-visual.png": "/porfolio/static/media/contact-visual.04c48cb26c6615866328.png",
+    "static/media/introduction-visual.png": "/porfolio/static/media/introduction-visual.87dad45905a8703bcc9f.png",
+    "static/media/Montserrat-Bold.svg": "/porfolio/static/media/Montserrat-Bold.165ff0f48797c2bfa717.svg",
+    "static/media/Montserrat-Regular.svg": "/porfolio/static/media/Montserrat-Regular.d7faa247e52835ac2b4a.svg",
+    "static/media/Montserrat-Black.svg": "/porfolio/static/media/Montserrat-Black.a621d898c74f2031b365.svg",
+    "static/media/Montserrat-Light.svg": "/porfolio/static/media/Montserrat-Light.d48e0efcfd560dd02629.svg",
+    "static/media/Montserrat-Light.eot": "/porfolio/static/media/Montserrat-Light.ba2217abd9546b8fdbd9.eot",
+    "static/media/Montserrat-Regular.eot": "/porfolio/static/media/Montserrat-Regular.5a9bfccbcccdd7377309.eot",
+    "static/media/Montserrat-Light.ttf": "/porfolio/static/media/Montserrat-Light.e9d136fa4f930de21c84.ttf",
+    "static/media/Montserrat-Regular.ttf": "/porfolio/static/media/Montserrat-Regular.cdf9f523ed9d08f0bd88.ttf",
+    "static/media/Montserrat-Bold.eot": "/porfolio/static/media/Montserrat-Bold.4a4a31f4227b7b664e9f.eot",
+    "static/media/Montserrat-Bold.ttf": "/porfolio/static/media/Montserrat-Bold.33afc8cccf795115fa73.ttf",
+    "static/media/Montserrat-Black.eot": "/porfolio/static/media/Montserrat-Black.faf61fbf29b6f052da61.eot",
+    "static/media/Montserrat-Black.ttf": "/porfolio/static/media/Montserrat-Black.70a3a681be45c7e15d7a.ttf",
+    "static/media/Montserrat-Bold.woff": "/porfolio/static/media/Montserrat-Bold.85198a67480aa0030bd3.woff",
+    "static/media/Montserrat-Regular.woff": "/porfolio/static/media/Montserrat-Regular.29974d507a0c3cd1632a.woff",
+    "static/media/Montserrat-Light.woff": "/porfolio/static/media/Montserrat-Light.3a31a5e977cdbda07983.woff",
+    "static/media/Montserrat-Black.woff": "/porfolio/static/media/Montserrat-Black.3a4efae480dc3343186a.woff",
+    "static/media/work-alex-nowak.jpg": "/porfolio/static/media/work-alex-nowak.f3b8dae06af02aae2284.jpg",
+    "static/media/work-metiew-smith.jpg": "/porfolio/static/media/work-metiew-smith.28e5219b8acd71226189.jpg",
+    "static/media/work-victory.jpg": "/porfolio/static/media/work-victory.65c37b629a23a9500636.jpg",
+    "static/media/about-winners.jpg": "/porfolio/static/media/about-winners.6a6129c505a71e41f141.jpg",
+    "static/media/about-philosophy.jpg": "/porfolio/static/media/about-philosophy.4ec348c2b758ac6731f2.jpg",
+    "static/media/about-history.jpg": "/porfolio/static/media/about-history.dbd7d173dbbb6676ce0f.jpg",
+    "index.html": "/porfolio/index.html",
+    "main.818e7407.css.map": "/porfolio/static/css/main.818e7407.css.map",
+    "main.8d42fcc9.js.map": "/porfolio/static/js/main.8d42fcc9.js.map",
+    "453.906b0208.chunk.js.map": "/porfolio/static/js/453.906b0208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.818e7407.css",
+    "static/js/main.8d42fcc9.js"
+  ]
+}
