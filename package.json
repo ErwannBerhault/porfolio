@@ -1,4 +1,5 @@
 {
+  "homepage": "https://erwannberhault.github.io/porfolio",
   "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "watch": "cra-build-watch"
+    "watch": "cra-build-watch",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +41,7 @@
     ]
   },
   "devDependencies": {
-    "@jagannathbhat/cra-build-watch": "^1.0.1"
+    "@jagannathbhat/cra-build-watch": "^1.0.1",
+    "gh-pages": "^6.1.1"
   }
 }
